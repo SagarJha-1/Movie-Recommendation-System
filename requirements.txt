@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Login
+Flask-WTF
+WTForms
+pandas
+numpy
+Pillow
+fuzzywuzzy
+gunicorn
