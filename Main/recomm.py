@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 
-BASE_DIR = os.path.abspath(os.getcwd())
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MOVIES_CSV = os.path.join(BASE_DIR, 'movies.csv')
 IMAGES_CSV = os.path.join(BASE_DIR, 'movie_images.csv')
 
