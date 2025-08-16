@@ -1,11 +1,12 @@
-Flask
-Flask-SQLAlchemy
-Flask-Bcrypt
-Flask-Login
-Flask-WTF
-WTForms
+flask
+flask_sqlalchemy
+flask_bcrypt
+flask_login
+gunicorn
+pymysql      
+psycopg2-binary 
 pandas
-numpy
 Pillow
 fuzzywuzzy
-gunicorn
+python-Levenshtein  # optional, speeds up fuzzywuzzy
+
