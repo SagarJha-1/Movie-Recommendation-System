@@ -1,6 +1,10 @@
 # 🎬 Movie Recommendation System
 
-Ever struggled to decide what movie to watch next? This **Movie Recommendation System** is your personal movie buddy! Built with **Flask** and **Jinja2**, it provides **personalized movie suggestions** using **content-based filtering** and **Jaccard similarity**.
+ **Movie Recommendation System** is your personal movie buddy! Built with **Flask** and **Jinja2**, it provides **personalized movie suggestions** using **content-based filtering** and **Jaccard similarity**.
+ - Utilizes flask as a backend
+ - Jinja2 templating with embedded html and css for frontend
+ - Mysql for Storing user and watchlist data
+ - Movies data are managed through CSV file
 
 ---
 
@@ -15,12 +19,8 @@ Ever struggled to decide what movie to watch next? This **Movie Recommendation S
 ---
 
 ## 🎬 Demo
-_Optional: Replace with actual screenshots/GIFs._  
 
-- **Homepage:** Random movies displayed for exploration.  
-- **Recommendation page:** Top 10 personalized suggestions.  
-- **Watchlist page:** Manage your saved movies.  
-- **Movie info page:** Full details with poster, overview, and cast.  
+For demo run this project in your Local Machine 
 
 ---
 
